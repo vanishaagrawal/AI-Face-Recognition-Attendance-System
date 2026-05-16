@@ -1,4 +1,4 @@
-# 🎯 Face Recognition Based Attendance System
+# 🎯 AI-Face-Recognition-Attendance-System
 
 A complete **Face Recognition–Based Attendance System** built using **Python**, **OpenCV**, **Dlib**, and **Deep Learning–based facial embeddings**.  
 The system automatically detects faces from a live camera feed, recognizes registered users, and marks their attendance in a database.
