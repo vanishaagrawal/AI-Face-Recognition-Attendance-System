@@ -1,7 +1,0 @@
-python get_faces_from_camera_tkinter.py
-
-python features_extraction_to_csv.py
-
-python attendance_taker.py
-
-python app.py
